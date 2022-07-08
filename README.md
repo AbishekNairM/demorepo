@@ -1,2 +1,2 @@
 # demorepo
-demo to  create a repo
+demo to  create a repo.
